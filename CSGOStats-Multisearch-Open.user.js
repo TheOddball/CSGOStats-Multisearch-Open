@@ -4,8 +4,8 @@
 // @author         theoddball
 // @version        1.0
 // @description    Opens multiple stats pages at once
-// @include        http://csgostats.gg/player/multi*
-// @include        https://csgostats.gg/player/multi*
+// @match        http://csgostats.gg/player/multi*
+// @match        https://csgostats.gg/player/multi*
 // @grant          none
 // @homepageURL    https://github.com/theoddball/CSGOStats-Multisearch-Open
 // @updateURL      https://raw.githubusercontent.com/theoddball/CSGOStats-Multisearch-Open/master/CSGOStats-Multisearch-Open.user.js
