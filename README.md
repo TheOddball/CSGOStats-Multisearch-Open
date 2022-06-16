@@ -1,0 +1,2 @@
+# CSGOStats Multisearch Open
+ 
